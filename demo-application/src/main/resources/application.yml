@@ -25,5 +25,6 @@ spring:
 management:
   endpoints:
     web:
+      base-path: /manage
       exposure:
         include: "*"
