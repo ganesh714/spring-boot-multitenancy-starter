@@ -1,0 +1,29 @@
+multitenancy:
+  enabled: true
+  tenants:
+    - id: tenant1
+      url: jdbc:postgresql://db:5432/tenant1_db
+      username: user
+      password: password
+    - id: tenant2
+      url: jdbc:postgresql://db:5432/tenant2_db
+      username: user
+      password: password
+    - id: tenant3
+      url: jdbc:postgresql://db:5432/tenant3_db
+      username: user
+      password: password
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+  main:
+    allow-bean-definition-overriding: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
