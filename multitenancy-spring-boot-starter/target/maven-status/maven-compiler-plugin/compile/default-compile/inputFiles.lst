@@ -1,5 +1,0 @@
-D:\Ganesh-D\Projects\GPP\Task 24\spring-boot-multitenancy-starter\multitenancy-spring-boot-starter\src\main\java\com\example\multitenancy\autoconfigure\MultiTenancyAutoConfiguration.java
-D:\Ganesh-D\Projects\GPP\Task 24\spring-boot-multitenancy-starter\multitenancy-spring-boot-starter\src\main\java\com\example\multitenancy\autoconfigure\MultiTenancyProperties.java
-D:\Ganesh-D\Projects\GPP\Task 24\spring-boot-multitenancy-starter\multitenancy-spring-boot-starter\src\main\java\com\example\multitenancy\context\TenantContext.java
-D:\Ganesh-D\Projects\GPP\Task 24\spring-boot-multitenancy-starter\multitenancy-spring-boot-starter\src\main\java\com\example\multitenancy\datasource\TenantAwareRoutingDataSource.java
-D:\Ganesh-D\Projects\GPP\Task 24\spring-boot-multitenancy-starter\multitenancy-spring-boot-starter\src\main\java\com\example\multitenancy\interceptor\TenantInterceptor.java
